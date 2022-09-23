@@ -1,6 +1,6 @@
 # Livro de Receitas
 
-Ola bem vindo
+Olá bem vindo
 
 - Strogonoff de Frango
-- 
+- Pavê
